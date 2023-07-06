@@ -3,6 +3,9 @@ A API consiste em um [CRUD] onde é possível realizar as operações básicas: 
 
 A API é baseada na śerie Game Of Thrones.
 
+**Versão do PHP**: 8.0.2 ou superior  
+**Versão do Laravel**: 9.19 ou superior
+
 ## Ao clonar o projeto
 Ao clonar o projeto execute as seguintes etapas abaixo para executar a aplicação:
 
